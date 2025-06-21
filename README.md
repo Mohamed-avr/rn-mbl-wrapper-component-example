@@ -1,4 +1,4 @@
-## 📱 PhoneWrapper Component (React Native Web)
+## 📱 PhoneWrapper Component 
 
 This `PhoneWrapper` component helps simulate a mobile device screen within your **React Native Web** app.  
 It wraps your content inside a styled mobile-like container, useful for visualizing how your UI would look on a real Android device.

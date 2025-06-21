@@ -3,6 +3,9 @@
 This `PhoneWrapper` component helps simulate a mobile device screen within your **React Native Web** app.  
 It wraps your content inside a styled mobile-like container, useful for visualizing how your UI would look on a real Android device.
 
+![image](https://github.com/user-attachments/assets/bcf31eef-a4b0-4c53-af13-c0e481cd75ba)
+
+
 
 ### Features
 - Mimics a real Android phone screen
